@@ -13,32 +13,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hallo, ich bin Elektroingenieur – Automatisierung & Software
+# Hallo, ich bin Elektroingenieur – Automatisierung & Software
 
 Mein Schwerpunkt liegt auf **SPS-Programmierung, Softwaretests und automatisierter Softwareerstellung**.
 
 ---
 
-## 🧰 Technologie-Stack
-
 ### 🛠️ Programmiersprachen & Tools
 
-| Sprache / Tool | Icon |
-|----------------|------|
-| Java           | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) |
-| Batch          | ![Batch](https://img.shields.io/badge/Batch-0078D6?logo=windows&amp;logoColor=white) |
-| VBA            | ![VBA](https://img.shields.io/badge/VBA-1F3E9E?logo=microsoftvisualbasic&logoColor=white) |
-| Perl           | ![Perl](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white) |
-| TCL/TK         | ![TCL](https://img.shields.io/badge/TCL-Tcl%2FTk-BF4E30?logo=none) |
+| Sprache / Tool |
+|----------------|
+| Java           ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) |
+| Batch          ![Batch](https://img.shields.io/badge/Batch-0078D6?logo=windows&amp;logoColor=white) |
+| VBA            ![VBA](https://img.shields.io/badge/VBA-1F3E9E?logo=microsoftvisualbasic&logoColor=white) |
+| Perl           ![Perl](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white) |
+| TCL/TK         ![TCL](https://img.shields.io/badge/TCL-Tcl%2FTk-BF4E30?logo=none) |
 
 ### ⚡ Automatisierung & SPS
 
-| Bereich | Icon |
-|---------|------|
-| SPS / IEC 61131 | ![PLC IEC61131](https://img.shields.io/badge/PLC-IEC_61131-003366?style=for-the-badge) |
-| Automatisierungstechnik | ![Automation Engineering](https://img.shields.io/badge/Industrial-Automation-0A66C2?style=for-the-badge) |
-| Softwaretests & Testautomatisierung | ![Software Testing](https://img.shields.io/badge/Software_Testing-Test_Automation-2E8B57?style=for-the-badge) |
-| Versionskontrolle | ![Git](https://img.shields.io/badge/Git-VersionControl-F05032?logo=git&logoColor=white) |
+| Bereich |
+|---------|
+| SPS / IEC 61131                     ![PLC IEC61131](https://img.shields.io/badge/PLC-IEC_61131-003366?style=for-the-badge) |
+| Automatisierungstechnik             ![Automation Engineering](https://img.shields.io/badge/Industrial-Automation-0A66C2?style=for-the-badge) |
+| Softwaretests & Testautomatisierung ![Software Testing](https://img.shields.io/badge/Software_Testing-Test_Automation-2E8B57?style=for-the-badge) |
+| Versionskontrolle                   ![Git](https://img.shields.io/badge/Git-VersionControl-F05032?logo=git&logoColor=white) |
 
 ---
 
