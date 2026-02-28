@@ -13,39 +13,42 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hallo, ich bin Elektroingenieur mit Fokus auf Automatisierung & Softwarequalität
+# 👋 Hallo, ich bin Elektroingenieur – Automatisierung & Software
 
 Mein Schwerpunkt liegt auf **SPS-Programmierung, Softwaretests und automatisierter Softwareerstellung**.
 
 ---
 
-## 🔧 Fachliche Schwerpunkte
-
-- Automatisierungstechnik  
-- Speicherprogrammierbare Steuerungen (SPS)  
-- IEC 61131  
-- Softwaretests & Testautomatisierung  
-- Entwicklung von Software-Tools  
-- Kontinuierlicher Verbesserungsprozess (KVP)  
-- Agile Softwareentwicklung  
-- Versionskontrolle  
-- Allgemeine Elektrotechnik
-
----
-
-## 💻 Technologie-Stack
+## 🧰 Technologie-Stack
 
 ### 🛠️ Programmiersprachen & Tools
 
-![Skills](https://skillicons.dev/icons?i=java,batch,vba,perl,tcl&theme=dark)
+| Sprache / Tool | Icon |
+|----------------|------|
+| Java           | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) |
+| Batch          | ![Batch](https://img.shields.io/badge/Batch-0078D6?logo=windows&amp;logoColor=white) |
+| VBA            | ![VBA](https://img.shields.io/badge/VBA-1F3E9E?logo=microsoftvisualbasic&logoColor=white) |
+| Perl           | ![Perl](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white) |
+| TCL/TK         | ![TCL](https://img.shields.io/badge/TCL-Tcl%2FTk-BF4E30?logo=none) |
 
-> **Java**, **Batch-Scripting**, **VBA (Visual Basic for Applications)**, **Perl**, **TCL/TK** :contentReference[oaicite:2]{index=2}
+### ⚡ Automatisierung & SPS
 
-### ⚙️ Automatisierung & SPS
+| Bereich | Icon |
+|---------|------|
+| SPS / IEC 61131 | ![PLC](https://img.shields.io/badge/SPS-PLC-IEC61131-0066CC?logo=none) |
+| Automatisierungstechnik | ![Automation](https://img.shields.io/badge/Automation-Engineering-00A3E0?logo=none) |
+| Softwaretests & Testautomatisierung | ![Tests](https://img.shields.io/badge/SoftwareTesting-Quality-Assurance-4BAE4F?logo=none) |
+| Versionskontrolle | ![Git](https://img.shields.io/badge/Git-VersionControl-F05032?logo=git&logoColor=white) |
 
-![Skills](https://skillicons.dev/icons?i=iec61131,automation&theme=dark)
+---
 
-> **IEC 61131**, **Automatisierungstechnik / SPS** (Icons für SPS sind symbolisch; du kannst eigene SVGs hosten) :contentReference[oaicite:3]{index=3}
+## 🧠 Fachliche Schwerpunkte
+
+- Speicherprogrammierbare Steuerungen (SPS)
+- IEC 61131
+- Agile Softwareentwicklung
+- Entwicklung von Software-Tools
+- Kontinuierlicher Verbesserungsprozess (KVP)
 
 ---
 
@@ -53,42 +56,37 @@ Mein Schwerpunkt liegt auf **SPS-Programmierung, Softwaretests und automatisiert
 
 Ich lege Wert auf:
 
-- Strukturierte und wartbare Software  
-- Automatisierte Teststrategien  
-- Nachhaltige Verbesserungsprozesse  
-- Klare Dokumentation  
+- Strukturierte, wartbare Software
+- Automatisierte Teststrategien
+- Nachhaltige Verbesserungsprozesse
 - Saubere Versionsverwaltung
-
-Mein Ziel ist es, robuste Automatisierungslösungen zu entwickeln, die langfristig zuverlässig und effizient funktionieren.
 
 ---
 
-## 📈 Aktuelle Interessensgebiete
+## 📈 Interessensgebiete
 
-- Automatisierte Code-Generierung  
-- Qualitätssicherung in der industriellen Softwareentwicklung  
-- Prozessoptimierung in Entwicklungsabläufen  
+- Automatisierte Code-Generierung
+- Qualitätssicherung in industrieller Softwareentwicklung
+- Prozessoptimierung
 - Verbindung von klassischer Elektrotechnik mit modernen Softwaremethoden
 
 ---
 
 ## 🚴‍♂️ Persönliches
 
-Wenn ich nicht programmiere oder Automatisierungslösungen entwickle, bin ich gerne draußen unterwegs:
+Außerhalb der Technik bin ich gerne aktiv:
 
-- 🥾 Wandern  
+- 🥾 Wandern
 - 🚴 Rennradfahren
 
 ---
 
 ## 📫 Kontakt
 
-Gerne Austausch zu:
+Ich freue mich über Austausch zu:
 
-- Automatisierung  
-- SPS-Architekturen  
-- Teststrategien  
-- Toolentwicklung  
+- Automatisierung & SPS-Architekturen
+- Teststrategien & Werkzeugentwicklung
 - Kontinuierlichem Verbesserungsprozess
 
 ---
