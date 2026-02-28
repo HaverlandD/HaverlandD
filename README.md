@@ -36,8 +36,8 @@ Mein Schwerpunkt liegt auf **SPS-Programmierung, Softwaretests und automatisiert
 | Bereich | Icon |
 |---------|------|
 | SPS / IEC 61131 | ![PLC](https://img.shields.io/badge/SPS-PLC-IEC61131-0066CC?logo=none) |
-| Automatisierungstechnik | ![Automation](https://img.shields.io/badge/Automation-Engineering-00A3E0?logo=none) |
-| Softwaretests & Testautomatisierung | ![Tests](https://img.shields.io/badge/SoftwareTesting-Quality-Assurance-4BAE4F?logo=none) |
+| Automatisierungstechnik | ![Automation](https://img.shields.io/badge/Industrial-Automation-0A66C2?style=for-the-badge) |
+| Softwaretests & Testautomatisierung | ![QA Automation](https://img.shields.io/badge/QA-Test_Automation-2E8B57?style=for-the-badge) |
 | Versionskontrolle | ![Git](https://img.shields.io/badge/Git-VersionControl-F05032?logo=git&logoColor=white) |
 
 ---
