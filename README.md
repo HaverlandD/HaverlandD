@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hallo, ich bin Elektroingenieur mit Fokus auf Automatisierung & Softwarequalität
+# Hallo, ich bin Elektroingenieur mit Fokus auf Automatisierung & Softwarequalität
 
 Mein Schwerpunkt liegt auf **SPS-Programmierung, Softwaretests und automatisierter Softwareerstellung**.
 
